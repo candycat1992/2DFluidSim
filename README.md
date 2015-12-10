@@ -2,7 +2,9 @@
 
 This project is intended to port 2D fluid simulation to Unity.
 
-<iframe src="https://player.vimeo.com/video/148456579?color=c9ff23" width="500" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+See the demo on Vimeo:
+
+[![ScreenShot](https://github.com/candycat1992/2DFluidSim/blob/master/Screenshots/image0.png)](https://vimeo.com/148456579)
 
 # Unity Version
 
